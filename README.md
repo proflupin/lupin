@@ -1,2 +1,2 @@
-# lupin
-judge sahab
+# Lupin
+Judge Sahab

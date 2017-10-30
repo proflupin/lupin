@@ -1,5 +1,5 @@
 # lupin
 judge sahab
 hvgrih
-parthy bol raha hun meri bhi setting kara der
+parth bol raha hun meri bhi setting kara de.
 
